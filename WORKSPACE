@@ -17,8 +17,8 @@ bazel_skylib_workspace()
 
 git_repository(
     name = "rules_iota",
-    commit = "e08b0038f376d6c82b80f5283bb0a86648bb58dc",
-    remote = "https://github.com/iotaledger/rules_iota.git",
+    commit = "b38d40c0bf9dd401d4bdbd1f32c0e308e5e2fcba",
+    remote = "https://github.com/DLTcollab/rules_iota.git",
 )
 
 git_repository(
